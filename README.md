@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/github/last-commit/nntu-cs/ADS-2025?color=darkgreen&style=for-the-badge">
 
 ### Содержание
+
 [Номера веток](#Номера веток)
 [Посещаемость](#Посещаемость)
 [Проверки](#Проверки)
