@@ -1487,7 +1487,7 @@
 | 74 | Халилов Н.М. | 24-ИСТ-2 |  | |  | |  | | 
 | 75 | Хватков И.В. | 24-ИСТ-2 |  | |  | |  | | 
 | 76 | Хорощь А.А. | 24-ИСТ-2 |  | |  | |  | | 
-| 77 | Цветков И.С. | 24-ИСТ-2 | 1 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 77 | Цветков И.С. | 24-ИСТ-2 | 1 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 78 | Шаблов М.А. | 24-ИСТ-2 |  | |  | |  | | 
 | 79 | Шеметов Я.Ю. | 24-ИСТ-2 | 28 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 80 | Шенина А.А. | 24-ИСТ-2 |  | |  | |  | | 
