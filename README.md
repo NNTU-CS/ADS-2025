@@ -414,7 +414,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-06-08 13:25
+Дата/время проверки: 2025-06-08 21:25
 
 
 ### nntu-cs/ads-1
@@ -479,7 +479,7 @@
 | 56 | Ковалев А.В. | 24-ИСТ-2 | 22 | <img src="img/s.png" width="20"> |  | | 
 | 57 | Ковалева А.О. | 24-ИСТ-2 | 181 | <img src="img/f.png" width="20"> |  | | 
 | 58 | Кондрашин В.Б. | 24-ИСТ-2 | 162 | <img src="img/s.png" width="20"> |  | | 
-| 59 | Коренькова М.И. | 24-ИСТ-2 |  | |  | | 
+| 59 | Коренькова М.И. | 24-ИСТ-2 | 245 | <img src="img/f.png" width="20"> |  | | 
 | 60 | Котельникова А.С. | 24-ИСТ-2 |  | |  | | 
 | 61 | Кошелев А.В. | 24-ИСТ-2 |  | |  | | 
 | 62 | Кулагин П.С. | 24-ИСТ-2 |  | |  | | 
@@ -564,7 +564,7 @@
 | 141 | Васканов А.А. | 24-ИСТ-4-2 | 212 | <img src="img/s.png" width="20"> |  | | 
 | 142 | Воронков А.Д. | 24-ИСТ-4-2 |  | |  | | 
 | 143 | Гаврилюк Д.А. | 24-ИСТ-4-2 | 229 | <img src="img/s.png" width="20"> |  | | 
-| 144 | Додонова А.В. | 24-ИСТ-4-2 |  | |  | | 
+| 144 | Додонова А.В. | 24-ИСТ-4-2 | 244 | <img src="img/s.png" width="20"> |  | | 
 | 145 | Ефимов А.А. | 24-ИСТ-4-2 | 135 | <img src="img/s.png" width="20"> |  | | 
 | 146 | Кладова А.Н. | 24-ИСТ-4-2 | 133 | <img src="img/s.png" width="20"> |  | | 
 | 147 | Кузнецова М.А. | 24-ИСТ-4-2 | 231 | <img src="img/s.png" width="20"> |  | | 
@@ -581,7 +581,7 @@
 | 158 | Чиняков Я.П. | 24-ИСТ-4-2 | 147 | <img src="img/s.png" width="20"> |  | | 
 | 159 | Юдинцов К.Е. | 24-ИСТ-4-2 |  | |  | | 
 | 160 | Мартемьянова П. | 24-ИСТ-4-1 | 132 | <img src="img/s.png" width="20"> |  | | 
-| 161 | Колобов А.Д. | 24-ИСТ-4-2 |  | |  | | 
+| 161 | Колобов А.Д. | 24-ИСТ-4-2 | 235 | <img src="img/s.png" width="20"> |  | | 
 ### nntu-cs/ads-2
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | 
@@ -644,7 +644,7 @@
 | 56 | Ковалев А.В. | 24-ИСТ-2 | 163 | <img src="img/s.png" width="20"> |  | | 
 | 57 | Ковалева А.О. | 24-ИСТ-2 | 116 | <img src="img/s.png" width="20"> |  | | 
 | 58 | Кондрашин В.Б. | 24-ИСТ-2 | 45 | <img src="img/s.png" width="20"> |  | | 
-| 59 | Коренькова М.И. | 24-ИСТ-2 |  | |  | | 
+| 59 | Коренькова М.И. | 24-ИСТ-2 | 183 | <img src="img/s.png" width="20"> |  | | 
 | 60 | Котельникова А.С. | 24-ИСТ-2 |  | |  | | 
 | 61 | Кошелев А.В. | 24-ИСТ-2 |  | |  | | 
 | 62 | Кулагин П.С. | 24-ИСТ-2 |  | |  | | 
@@ -746,7 +746,7 @@
 | 158 | Чиняков Я.П. | 24-ИСТ-4-2 | 105 | <img src="img/s.png" width="20"> |  | | 
 | 159 | Юдинцов К.Е. | 24-ИСТ-4-2 |  | |  | | 
 | 160 | Мартемьянова П. | 24-ИСТ-4-1 | 94 | <img src="img/s.png" width="20"> |  | | 
-| 161 | Колобов А.Д. | 24-ИСТ-4-2 |  | |  | | 
+| 161 | Колобов А.Д. | 24-ИСТ-4-2 | 177 | <img src="img/s.png" width="20"> |  | | 
 ### nntu-cs/ads-3
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | 
@@ -809,7 +809,7 @@
 | 56 | Ковалев А.В. | 24-ИСТ-2 | 112 | <img src="img/s.png" width="20"> |  | | 
 | 57 | Ковалева А.О. | 24-ИСТ-2 | 54 | <img src="img/s.png" width="20"> |  | | 
 | 58 | Кондрашин В.Б. | 24-ИСТ-2 | 11 | <img src="img/s.png" width="20"> |  | | 
-| 59 | Коренькова М.И. | 24-ИСТ-2 |  | |  | | 
+| 59 | Коренькова М.И. | 24-ИСТ-2 | 160 | <img src="img/s.png" width="20"> |  | | 
 | 60 | Котельникова А.С. | 24-ИСТ-2 |  | |  | | 
 | 61 | Кошелев А.В. | 24-ИСТ-2 |  | |  | | 
 | 62 | Кулагин П.С. | 24-ИСТ-2 |  | |  | | 
@@ -894,7 +894,7 @@
 | 141 | Васканов А.А. | 24-ИСТ-4-2 | 104 | <img src="img/s.png" width="20"> |  | | 
 | 142 | Воронков А.Д. | 24-ИСТ-4-2 |  | |  | | 
 | 143 | Гаврилюк Д.А. | 24-ИСТ-4-2 | 151 | <img src="img/s.png" width="20"> |  | | 
-| 144 | Додонова А.В. | 24-ИСТ-4-2 |  | |  | | 
+| 144 | Додонова А.В. | 24-ИСТ-4-2 | 159 | <img src="img/f.png" width="20"> |  | | 
 | 145 | Ефимов А.А. | 24-ИСТ-4-2 | 49 | <img src="img/s.png" width="20"> |  | | 
 | 146 | Кладова А.Н. | 24-ИСТ-4-2 | 122 | <img src="img/s.png" width="20"> |  | | 
 | 147 | Кузнецова М.А. | 24-ИСТ-4-2 | 149 | <img src="img/s.png" width="20"> |  | | 
@@ -911,7 +911,7 @@
 | 158 | Чиняков Я.П. | 24-ИСТ-4-2 | 99 | <img src="img/s.png" width="20"> |  | | 
 | 159 | Юдинцов К.Е. | 24-ИСТ-4-2 |  | |  | | 
 | 160 | Мартемьянова П. | 24-ИСТ-4-1 | 91 | <img src="img/s.png" width="20"> |  | | 
-| 161 | Колобов А.Д. | 24-ИСТ-4-2 |  | |  | | 
+| 161 | Колобов А.Д. | 24-ИСТ-4-2 | 97 | <img src="img/s.png" width="20"> |  | | 
 ### nntu-cs/ads-4
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | 
@@ -974,7 +974,7 @@
 | 56 | Ковалев А.В. | 24-ИСТ-2 | 46 | <img src="img/s.png" width="20"> |  | | 
 | 57 | Ковалева А.О. | 24-ИСТ-2 |  | |  | | 
 | 58 | Кондрашин В.Б. | 24-ИСТ-2 | 189 | <img src="img/s.png" width="20"> |  | | 
-| 59 | Коренькова М.И. | 24-ИСТ-2 |  | |  | | 
+| 59 | Коренькова М.И. | 24-ИСТ-2 | 213 | <img src="img/s.png" width="20"> |  | | 
 | 60 | Котельникова А.С. | 24-ИСТ-2 |  | |  | | 
 | 61 | Кошелев А.В. | 24-ИСТ-2 |  | |  | | 
 | 62 | Кулагин П.С. | 24-ИСТ-2 |  | |  | | 
@@ -1059,7 +1059,7 @@
 | 141 | Васканов А.А. | 24-ИСТ-4-2 | 83 | <img src="img/s.png" width="20"> |  | | 
 | 142 | Воронков А.Д. | 24-ИСТ-4-2 |  | |  | | 
 | 143 | Гаврилюк Д.А. | 24-ИСТ-4-2 | 204 | <img src="img/s.png" width="20"> |  | | 
-| 144 | Додонова А.В. | 24-ИСТ-4-2 |  | |  | | 
+| 144 | Додонова А.В. | 24-ИСТ-4-2 | 214 | <img src="img/s.png" width="20"> |  | | 
 | 145 | Ефимов А.А. | 24-ИСТ-4-2 |  | |  | | 
 | 146 | Кладова А.Н. | 24-ИСТ-4-2 | 118 | <img src="img/s.png" width="20"> |  | | 
 | 147 | Кузнецова М.А. | 24-ИСТ-4-2 | 194 | <img src="img/s.png" width="20"> |  | | 
@@ -1076,7 +1076,7 @@
 | 158 | Чиняков Я.П. | 24-ИСТ-4-2 | 119 | <img src="img/s.png" width="20"> |  | | 
 | 159 | Юдинцов К.Е. | 24-ИСТ-4-2 |  | |  | | 
 | 160 | Мартемьянова П. | 24-ИСТ-4-1 | 134 | <img src="img/s.png" width="20"> |  | | 
-| 161 | Колобов А.Д. | 24-ИСТ-4-2 |  | |  | | 
+| 161 | Колобов А.Д. | 24-ИСТ-4-2 | 202 | <img src="img/s.png" width="20"> |  | | 
 ### nntu-cs/ads-5
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | 
@@ -1111,7 +1111,7 @@
 | 28 | Гареев Р.А. | 24-ИСТ-1-2 | 163 | <img src="img/s.png" width="20"> |  | | 
 | 29 | Жихарева А.М. | 24-ИСТ-1-2 | 71 | <img src="img/s.png" width="20"> |  | | 
 | 30 | Завьялов К.А. | 24-ИСТ-1-2 |  | |  | | 
-| 31 | Земцова А.В. | 24-ИСТ-1-2 |  | |  | | 
+| 31 | Земцова А.В. | 24-ИСТ-1-2 | 169 | <img src="img/f.png" width="20"> |  | | 
 | 32 | Иванов М.Д. | 24-ИСТ-1-2 |  | |  | | 
 | 33 | Касаткин А.П. | 24-ИСТ-1-2 | 105 | <img src="img/s.png" width="20"> |  | | 
 | 34 | Коваленко И.И. | 24-ИСТ-1-2 | 115 | <img src="img/s.png" width="20"> |  | | 
@@ -1139,7 +1139,7 @@
 | 56 | Ковалев А.В. | 24-ИСТ-2 | 132 | <img src="img/s.png" width="20"> |  | | 
 | 57 | Ковалева А.О. | 24-ИСТ-2 |  | |  | | 
 | 58 | Кондрашин В.Б. | 24-ИСТ-2 | 152 | <img src="img/s.png" width="20"> |  | | 
-| 59 | Коренькова М.И. | 24-ИСТ-2 |  | |  | | 
+| 59 | Коренькова М.И. | 24-ИСТ-2 | 168 | <img src="img/s.png" width="20"> |  | | 
 | 60 | Котельникова А.С. | 24-ИСТ-2 |  | |  | | 
 | 61 | Кошелев А.В. | 24-ИСТ-2 |  | |  | | 
 | 62 | Кулагин П.С. | 24-ИСТ-2 |  | |  | | 
@@ -1241,7 +1241,7 @@
 | 158 | Чиняков Я.П. | 24-ИСТ-4-2 | 82 | <img src="img/s.png" width="20"> |  | | 
 | 159 | Юдинцов К.Е. | 24-ИСТ-4-2 |  | |  | | 
 | 160 | Мартемьянова П. | 24-ИСТ-4-1 | 9 | <img src="img/s.png" width="20"> |  | | 
-| 161 | Колобов А.Д. | 24-ИСТ-4-2 |  | |  | | 
+| 161 | Колобов А.Д. | 24-ИСТ-4-2 | 155 | <img src="img/s.png" width="20"> |  | | 
 ### nntu-cs/ads-6
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | 
@@ -1417,7 +1417,7 @@
 | 4 | Белодворцев В.А. | 24-ИСТ-1-1 | 111 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 5 | Бочкарёв Т.С. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 6 | Вязов М.М. | 24-ИСТ-1-1 | 4 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 7 | Галинова Е.А. | 24-ИСТ-1-1 | 152 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 7 | Галинова Е.А. | 24-ИСТ-1-1 | 152 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 8 | Ерин А.А. | 24-ИСТ-1-1 | 43 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 9 | Золин П.И. | 24-ИСТ-1-1 | 6 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 10 | Зырянов М.К. | 24-ИСТ-1-1 |  | |  | |  | | 
@@ -1425,7 +1425,7 @@
 | 12 | Кашников А.С. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 13 | Кузнецов К.А. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 14 | Кузякова И.М. | 24-ИСТ-1-1 |  | |  | |  | | 
-| 15 | Кучумова Е.Д. | 24-ИСТ-1-1 |  | |  | |  | | 
+| 15 | Кучумова Е.Д. | 24-ИСТ-1-1 | 163 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 16 | Лядов Е.А. | 24-ИСТ-1-1 | 49 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 17 | Мартын А.В. | 24-ИСТ-1-1 | 122 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 18 | Мещеряков С.Ю. | 24-ИСТ-1-1 | 72 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1438,7 +1438,7 @@
 | 25 | Шибанова Э.Э. | 24-ИСТ-1-1 | 69 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 26 | Аниськин А.А. | 24-ИСТ-1-2 | 113 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 27 | Волков Н.И. | 24-ИСТ-1-2 | 11 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 28 | Гареев Р.А. | 24-ИСТ-1-2 |  | |  | |  | | 
+| 28 | Гареев Р.А. | 24-ИСТ-1-2 | 167 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 29 | Жихарева А.М. | 24-ИСТ-1-2 | 92 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 30 | Завьялов К.А. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 31 | Земцова А.В. | 24-ИСТ-1-2 |  | |  | |  | | 
@@ -1448,7 +1448,7 @@
 | 35 | Корнев А.А. | 24-ИСТ-1-2 | 31 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 36 | Курмаев А.Р. | 24-ИСТ-1-2 | 143 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 37 | Митрофанов Е.А. | 24-ИСТ-1-2 | 97 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 38 | Муравьев А.С. | 24-ИСТ-1-2 | 148 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 38 | Муравьев А.С. | 24-ИСТ-1-2 | 148 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 39 | Павлов И.В. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 40 | Ростенко М.О. | 24-ИСТ-1-2 | 77 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 41 | Рулин Д.А. | 24-ИСТ-1-2 |  | |  | |  | | 
@@ -1515,7 +1515,7 @@
 | 102 | Манторов Н.В. | 24-ИСТ-3 | 137 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 103 | Мозжалова А.Ю. | 24-ИСТ-3 | 144 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 104 | Нефедова Т.В. | 24-ИСТ-3 | 60 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 105 | Подчередниченко Е.Е. | 24-ИСТ-3 | 151 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 105 | Подчередниченко Е.Е. | 24-ИСТ-3 | 164 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 106 | Пойлов И.А. | 24-ИСТ-3 | 100 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 107 | Савельев В.В. | 24-ИСТ-3 |  | |  | |  | | 
 | 108 | Сандалова А.К. | 24-ИСТ-3 | 66 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1523,9 +1523,9 @@
 | 110 | Тарасенко М.Р. | 24-ИСТ-3 | 54 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 111 | Усанков Л.П. | 24-ИСТ-3 | 93 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 112 | Хадур Д. | 24-ИСТ-3 |  | |  | |  | | 
-| 113 | Холодова А.Р. | 24-ИСТ-3 | 39 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 113 | Холодова А.Р. | 24-ИСТ-3 | 39 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 114 | Хорев Д.И. | 24-ИСТ-3 | 154 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 115 | Чернов М.А. | 24-ИСТ-3 | 147 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 115 | Чернов М.А. | 24-ИСТ-3 | 147 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 116 | Чехонадских А.Д. | 24-ИСТ-3 | 65 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 117 | Шарыпова О.Ю. | 24-ИСТ-3 |  | |  | |  | | 
 | 118 | Астраханцева А.Д. | 24-ИСТ-4-1 | 90 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1571,7 +1571,7 @@
 | 158 | Чиняков Я.П. | 24-ИСТ-4-2 | 98 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 159 | Юдинцов К.Е. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 160 | Мартемьянова П. | 24-ИСТ-4-1 | 70 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 161 | Колобов А.Д. | 24-ИСТ-4-2 |  | |  | |  | | 
+| 161 | Колобов А.Д. | 24-ИСТ-4-2 | 162 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 ### nntu-cs/ads-8
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | Текст | ИТОГ | 
@@ -1590,9 +1590,9 @@
 | 12 | Кашников А.С. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 13 | Кузнецов К.А. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 14 | Кузякова И.М. | 24-ИСТ-1-1 |  | |  | |  | | 
-| 15 | Кучумова Е.Д. | 24-ИСТ-1-1 |  | |  | |  | | 
+| 15 | Кучумова Е.Д. | 24-ИСТ-1-1 | 135 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 16 | Лядов Е.А. | 24-ИСТ-1-1 | 95 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 17 | Мартын А.В. | 24-ИСТ-1-1 | 59 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 17 | Мартын А.В. | 24-ИСТ-1-1 | 59 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 18 | Мещеряков С.Ю. | 24-ИСТ-1-1 | 40 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 19 | Намятова Д.А. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 20 | Николаенко К.А. | 24-ИСТ-1-1 | 116 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
@@ -1603,7 +1603,7 @@
 | 25 | Шибанова Э.Э. | 24-ИСТ-1-1 | 76 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 26 | Аниськин А.А. | 24-ИСТ-1-2 | 70 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 27 | Волков Н.И. | 24-ИСТ-1-2 | 56 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 28 | Гареев Р.А. | 24-ИСТ-1-2 |  | |  | |  | | 
+| 28 | Гареев Р.А. | 24-ИСТ-1-2 | 134 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 29 | Жихарева А.М. | 24-ИСТ-1-2 | 50 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 30 | Завьялов К.А. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 31 | Земцова А.В. | 24-ИСТ-1-2 |  | |  | |  | | 
@@ -1612,7 +1612,7 @@
 | 34 | Коваленко И.И. | 24-ИСТ-1-2 | 2 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 35 | Корнев А.А. | 24-ИСТ-1-2 | 12 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 36 | Курмаев А.Р. | 24-ИСТ-1-2 | 92 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 37 | Митрофанов Е.А. | 24-ИСТ-1-2 | 61 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 37 | Митрофанов Е.А. | 24-ИСТ-1-2 | 61 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 38 | Муравьев А.С. | 24-ИСТ-1-2 | 112 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 39 | Павлов И.В. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 40 | Ростенко М.О. | 24-ИСТ-1-2 | 98 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
@@ -1660,7 +1660,7 @@
 | 82 | Аванесова Д.А. | 24-ИСТ-3 | 13 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 83 | Андронов К.А. | 24-ИСТ-3 |  | |  | |  | | 
 | 84 | Балдов К.М. | 24-ИСТ-3 | 9 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 85 | Ватолин Л.Ф. | 24-ИСТ-3 | 107 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 85 | Ватолин Л.Ф. | 24-ИСТ-3 | 107 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 86 | Веселова В.А. | 24-ИСТ-3 | 39 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 87 | Грачева А.А. | 24-ИСТ-3 |  | |  | |  | | 
 | 88 | Гурин А.А. | 24-ИСТ-3 | 108 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1671,8 +1671,8 @@
 | 93 | Кашин А.А. | 24-ИСТ-3 | 22 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 94 | Кистанов А.С. | 24-ИСТ-3 | 67 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 95 | Князев Т.В. | 24-ИСТ-3 |  | |  | |  | | 
-| 96 | Коробова Е.Е. | 24-ИСТ-3 | 54 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 97 | Кудимов К.М. | 24-ИСТ-3 |  | |  | |  | | 
+| 96 | Коробова Е.Е. | 24-ИСТ-3 | 54 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 97 | Кудимов К.М. | 24-ИСТ-3 | 132 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 98 | Лебедев Д.А. | 24-ИСТ-3 | 82 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 99 | Лещенко И.А. | 24-ИСТ-3 |  | |  | |  | | 
 | 100 | Макарычев И.А. | 24-ИСТ-3 |  | |  | |  | | 
@@ -1680,17 +1680,17 @@
 | 102 | Манторов Н.В. | 24-ИСТ-3 | 88 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 103 | Мозжалова А.Ю. | 24-ИСТ-3 | 8 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 104 | Нефедова Т.В. | 24-ИСТ-3 | 11 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 105 | Подчередниченко Е.Е. | 24-ИСТ-3 | 113 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 105 | Подчередниченко Е.Е. | 24-ИСТ-3 | 113 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 106 | Пойлов И.А. | 24-ИСТ-3 | 53 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 107 | Савельев В.В. | 24-ИСТ-3 |  | |  | |  | | 
-| 108 | Сандалова А.К. | 24-ИСТ-3 | 131 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 108 | Сандалова А.К. | 24-ИСТ-3 | 131 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 109 | Солодова А.А. | 24-ИСТ-3 | 5 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 110 | Тарасенко М.Р. | 24-ИСТ-3 |  | |  | |  | | 
 | 111 | Усанков Л.П. | 24-ИСТ-3 | 33 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 112 | Хадур Д. | 24-ИСТ-3 |  | |  | |  | | 
 | 113 | Холодова А.Р. | 24-ИСТ-3 | 69 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 114 | Хорев Д.И. | 24-ИСТ-3 | 121 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 115 | Чернов М.А. | 24-ИСТ-3 | 128 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 115 | Чернов М.А. | 24-ИСТ-3 | 128 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 116 | Чехонадских А.Д. | 24-ИСТ-3 | 71 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 117 | Шарыпова О.Ю. | 24-ИСТ-3 |  | |  | |  | | 
 | 118 | Астраханцева А.Д. | 24-ИСТ-4-1 | 66 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1718,7 +1718,7 @@
 | 140 | Аксёнов Н.Ю. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 141 | Васканов А.А. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 142 | Воронков А.Д. | 24-ИСТ-4-2 |  | |  | |  | | 
-| 143 | Гаврилюк Д.А. | 24-ИСТ-4-2 |  | |  | |  | | 
+| 143 | Гаврилюк Д.А. | 24-ИСТ-4-2 | 137 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 144 | Додонова А.В. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 145 | Ефимов А.А. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 146 | Кладова А.Н. | 24-ИСТ-4-2 |  | |  | |  | | 
@@ -1728,7 +1728,7 @@
 | 150 | Мамаева Ю.А. | 24-ИСТ-4-2 | 44 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 151 | Мингазова Ю.А. | 24-ИСТ-4-2 | 124 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 152 | Небученкова А.Д. | 24-ИСТ-4-2 | 74 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 153 | Незнанова М.С. | 24-ИСТ-4-2 | 123 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 153 | Незнанова М.С. | 24-ИСТ-4-2 | 123 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 154 | Пасечник В.В. | 24-ИСТ-4-2 | 96 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 155 | Подразская С.С. | 24-ИСТ-4-2 | 27 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 156 | Прибыткова С.А. | 24-ИСТ-4-2 |  | |  | |  | | 
@@ -1736,7 +1736,7 @@
 | 158 | Чиняков Я.П. | 24-ИСТ-4-2 | 16 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 159 | Юдинцов К.Е. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 160 | Мартемьянова П. | 24-ИСТ-4-1 | 55 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 161 | Колобов А.Д. | 24-ИСТ-4-2 |  | |  | |  | | 
+| 161 | Колобов А.Д. | 24-ИСТ-4-2 | 133 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 ### nntu-cs/ads-9
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | График | ИТОГ | 
@@ -1757,27 +1757,27 @@
 | 14 | Кузякова И.М. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 15 | Кучумова Е.Д. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 16 | Лядов Е.А. | 24-ИСТ-1-1 | 74 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 17 | Мартын А.В. | 24-ИСТ-1-1 |  | |  | |  | | 
+| 17 | Мартын А.В. | 24-ИСТ-1-1 | 134 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 18 | Мещеряков С.Ю. | 24-ИСТ-1-1 | 28 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 19 | Намятова Д.А. | 24-ИСТ-1-1 |  | |  | |  | | 
 | 20 | Николаенко К.А. | 24-ИСТ-1-1 | 84 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 21 | Прохоров Е.А. | 24-ИСТ-1-1 | 63 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 22 | Соловьёв В.А. | 24-ИСТ-1-1 | 69 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 23 | Тюлин В.Д. | 24-ИСТ-1-1 |  | |  | |  | | 
+| 23 | Тюлин В.Д. | 24-ИСТ-1-1 | 115 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 24 | Федорова А.О. | 24-ИСТ-1-1 | 25 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 25 | Шибанова Э.Э. | 24-ИСТ-1-1 | 73 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 26 | Аниськин А.А. | 24-ИСТ-1-2 |  | |  | |  | | 
+| 26 | Аниськин А.А. | 24-ИСТ-1-2 | 114 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 27 | Волков Н.И. | 24-ИСТ-1-2 | 17 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 28 | Гареев Р.А. | 24-ИСТ-1-2 | 98 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 28 | Гареев Р.А. | 24-ИСТ-1-2 | 98 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 29 | Жихарева А.М. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 30 | Завьялов К.А. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 31 | Земцова А.В. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 32 | Иванов М.Д. | 24-ИСТ-1-2 |  | |  | |  | | 
-| 33 | Касаткин А.П. | 24-ИСТ-1-2 |  | |  | |  | | 
-| 34 | Коваленко И.И. | 24-ИСТ-1-2 | 5 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 33 | Касаткин А.П. | 24-ИСТ-1-2 | 125 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 34 | Коваленко И.И. | 24-ИСТ-1-2 | 5 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 35 | Корнев А.А. | 24-ИСТ-1-2 | 29 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 36 | Курмаев А.Р. | 24-ИСТ-1-2 | 85 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 37 | Митрофанов Е.А. | 24-ИСТ-1-2 |  | |  | |  | | 
+| 37 | Митрофанов Е.А. | 24-ИСТ-1-2 | 123 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 38 | Муравьев А.С. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 39 | Павлов И.В. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 40 | Ростенко М.О. | 24-ИСТ-1-2 | 35 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1786,7 +1786,7 @@
 | 43 | Соболев М.Д. | 24-ИСТ-1-2 |  | |  | |  | | 
 | 44 | Тихонова К.Г. | 24-ИСТ-1-2 | 21 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 45 | Трубачнов А.С. | 24-ИСТ-1-2 | 10 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 46 | Умин А.А. | 24-ИСТ-1-2 |  | |  | |  | | 
+| 46 | Умин А.А. | 24-ИСТ-1-2 | 131 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 47 | Акифьев И.И. | 24-ИСТ-2 |  | |  | |  | | 
 | 48 | Апатина А.А. | 24-ИСТ-2 | 16 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 49 | Бабенков В.Е. | 24-ИСТ-2 | 49 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1804,10 +1804,10 @@
 | 61 | Кошелев А.В. | 24-ИСТ-2 |  | |  | |  | | 
 | 62 | Кулагин П.С. | 24-ИСТ-2 |  | |  | |  | | 
 | 63 | Лейбович М.Д. | 24-ИСТ-2 | 81 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 64 | Маков В.Д. | 24-ИСТ-2 |  | |  | |  | | 
+| 64 | Маков В.Д. | 24-ИСТ-2 | 110 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 65 | Морозкин Д.А. | 24-ИСТ-2 | 50 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 66 | Никифоров С.В. | 24-ИСТ-2 | 78 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 67 | Норкина М.А. | 24-ИСТ-2 | 106 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 67 | Норкина М.А. | 24-ИСТ-2 | 106 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 68 | Перевезенцев В.С. | 24-ИСТ-2 | 90 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 69 | Ромоданов А.А. | 24-ИСТ-2 | 7 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 70 | Слепко И.С. | 24-ИСТ-2 | 26 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1816,7 +1816,7 @@
 | 73 | Федичкин К.А. | 24-ИСТ-2 | 88 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 74 | Халилов Н.М. | 24-ИСТ-2 |  | |  | |  | | 
 | 75 | Хватков И.В. | 24-ИСТ-2 | 94 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 76 | Хорощь А.А. | 24-ИСТ-2 |  | |  | |  | | 
+| 76 | Хорощь А.А. | 24-ИСТ-2 | 108 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 77 | Цветков И.С. | 24-ИСТ-2 | 2 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 78 | Шаблов М.А. | 24-ИСТ-2 |  | |  | |  | | 
 | 79 | Шеметов Я.Ю. | 24-ИСТ-2 | 12 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1829,23 +1829,23 @@
 | 86 | Веселова В.А. | 24-ИСТ-3 | 66 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 87 | Грачева А.А. | 24-ИСТ-3 |  | |  | |  | | 
 | 88 | Гурин А.А. | 24-ИСТ-3 | 62 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 89 | Дерлукова А.Е. | 24-ИСТ-3 |  | |  | |  | | 
+| 89 | Дерлукова А.Е. | 24-ИСТ-3 | 135 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 90 | Жижин И.А. | 24-ИСТ-3 |  | |  | |  | | 
 | 91 | Зеленова А.А. | 24-ИСТ-3 | 105 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 92 | Ильина А.А. | 24-ИСТ-3 | 95 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 93 | Кашин А.А. | 24-ИСТ-3 | 36 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 94 | Кистанов А.С. | 24-ИСТ-3 |  | |  | |  | | 
+| 94 | Кистанов А.С. | 24-ИСТ-3 | 121 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 95 | Князев Т.В. | 24-ИСТ-3 |  | |  | |  | | 
-| 96 | Коробова Е.Е. | 24-ИСТ-3 |  | |  | |  | | 
-| 97 | Кудимов К.М. | 24-ИСТ-3 |  | |  | |  | | 
-| 98 | Лебедев Д.А. | 24-ИСТ-3 |  | |  | |  | | 
+| 96 | Коробова Е.Е. | 24-ИСТ-3 | 109 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 97 | Кудимов К.М. | 24-ИСТ-3 | 113 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 98 | Лебедев Д.А. | 24-ИСТ-3 | 116 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 99 | Лещенко И.А. | 24-ИСТ-3 |  | |  | |  | | 
 | 100 | Макарычев И.А. | 24-ИСТ-3 |  | |  | |  | | 
-| 101 | Малышев Д.В. | 24-ИСТ-3 | 96 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 102 | Манторов Н.В. | 24-ИСТ-3 |  | |  | |  | | 
+| 101 | Малышев Д.В. | 24-ИСТ-3 | 96 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 102 | Манторов Н.В. | 24-ИСТ-3 | 124 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 103 | Мозжалова А.Ю. | 24-ИСТ-3 | 51 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 104 | Нефедова Т.В. | 24-ИСТ-3 | 48 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 105 | Подчередниченко Е.Е. | 24-ИСТ-3 | 75 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 105 | Подчередниченко Е.Е. | 24-ИСТ-3 | 75 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 106 | Пойлов И.А. | 24-ИСТ-3 | 107 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 107 | Савельев В.В. | 24-ИСТ-3 |  | |  | |  | | 
 | 108 | Сандалова А.К. | 24-ИСТ-3 |  | |  | |  | | 
@@ -1855,24 +1855,24 @@
 | 112 | Хадур Д. | 24-ИСТ-3 |  | |  | |  | | 
 | 113 | Холодова А.Р. | 24-ИСТ-3 | 14 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 114 | Хорев Д.И. | 24-ИСТ-3 | 91 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 115 | Чернов М.А. | 24-ИСТ-3 |  | |  | |  | | 
+| 115 | Чернов М.А. | 24-ИСТ-3 | 112 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 116 | Чехонадских А.Д. | 24-ИСТ-3 | 71 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 117 | Шарыпова О.Ю. | 24-ИСТ-3 |  | |  | |  | | 
-| 118 | Астраханцева А.Д. | 24-ИСТ-4-1 |  | |  | |  | | 
+| 118 | Астраханцева А.Д. | 24-ИСТ-4-1 | 122 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 119 | Афанасова А.А. | 24-ИСТ-4-1 | 68 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 120 | Бачин А.В. | 24-ИСТ-4-1 | 41 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 121 | Березкин Е.А. | 24-ИСТ-4-1 | 38 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 122 | Бурков С.А. | 24-ИСТ-4-1 | 64 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 123 | Бушуева А.К. | 24-ИСТ-4-1 | 87 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 124 | Ветюгов Н.С. | 24-ИСТ-4-1 |  | |  | |  | | 
+| 124 | Ветюгов Н.С. | 24-ИСТ-4-1 | 132 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 125 | Волков А.А. | 24-ИСТ-4-1 | 23 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 126 | Воробьев Д.Д. | 24-ИСТ-4-1 |  | |  | |  | | 
 | 127 | Вшивцев Е.И. | 24-ИСТ-4-1 |  | |  | |  | | 
 | 128 | Григорьев А.А. | 24-ИСТ-4-1 | 92 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 129 | Коновалов В.С. | 24-ИСТ-4-1 | 93 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 130 | Кузьмина Д.А. | 24-ИСТ-4-1 |  | |  | |  | | 
-| 131 | Макарова Е.А. | 24-ИСТ-4-1 |  | |  | |  | | 
-| 132 | Медведева Я.А. | 24-ИСТ-4-1 |  | |  | |  | | 
+| 131 | Макарова Е.А. | 24-ИСТ-4-1 | 136 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 132 | Медведева Я.А. | 24-ИСТ-4-1 | 117 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 133 | Осипов О.А. | 24-ИСТ-4-1 |  | |  | |  | | 
 | 134 | Ромашкин В.А. | 24-ИСТ-4-1 |  | |  | |  | | 
 | 135 | Седышева В.В. | 24-ИСТ-4-1 |  | |  | |  | | 
@@ -1883,18 +1883,18 @@
 | 140 | Аксёнов Н.Ю. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 141 | Васканов А.А. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 142 | Воронков А.Д. | 24-ИСТ-4-2 |  | |  | |  | | 
-| 143 | Гаврилюк Д.А. | 24-ИСТ-4-2 |  | |  | |  | | 
-| 144 | Додонова А.В. | 24-ИСТ-4-2 |  | |  | |  | | 
+| 143 | Гаврилюк Д.А. | 24-ИСТ-4-2 | 133 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 144 | Додонова А.В. | 24-ИСТ-4-2 | 119 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 145 | Ефимов А.А. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 146 | Кладова А.Н. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 147 | Кузнецова М.А. | 24-ИСТ-4-2 | 19 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 148 | Куприянова В.С. | 24-ИСТ-4-2 |  | |  | |  | | 
+| 148 | Куприянова В.С. | 24-ИСТ-4-2 | 111 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 149 | Лисин Н.Е. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 150 | Мамаева Ю.А. | 24-ИСТ-4-2 | 20 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 151 | Мингазова Ю.А. | 24-ИСТ-4-2 | 99 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 152 | Небученкова А.Д. | 24-ИСТ-4-2 | 70 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 153 | Незнанова М.С. | 24-ИСТ-4-2 | 97 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 154 | Пасечник В.В. | 24-ИСТ-4-2 | 72 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 154 | Пасечник В.В. | 24-ИСТ-4-2 | 72 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 155 | Подразская С.С. | 24-ИСТ-4-2 | 101 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 156 | Прибыткова С.А. | 24-ИСТ-4-2 |  | |  | |  | | 
 | 157 | Смирнова В.А. | 24-ИСТ-4-2 | 8 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
