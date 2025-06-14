@@ -1468,7 +1468,7 @@
 | 55 | Дударев А.В. | 24-ИСТ-2 | 48 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 56 | Ковалев А.В. | 24-ИСТ-2 | 124 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 57 | Ковалева А.О. | 24-ИСТ-2 |  | |  | |  | | 
-| 58 | Кондрашин В.Б. | 24-ИСТ-2 | 145 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 58 | Кондрашин В.Б. | 24-ИСТ-2 | 145 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 59 | Коренькова М.И. | 24-ИСТ-2 | 170 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 60 | Котельникова А.С. | 24-ИСТ-2 | 171 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 61 | Кошелев А.В. | 24-ИСТ-2 |  | |  | |  | | 
