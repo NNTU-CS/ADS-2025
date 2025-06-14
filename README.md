@@ -414,7 +414,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-06-14 09:25
+Дата/время проверки: 2025-06-14 10:25
 
 
 ### nntu-cs/ads-1
@@ -1650,7 +1650,7 @@
 | 72 | Тарасов А.В. | 24-ИСТ-2 | 110 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 73 | Федичкин К.А. | 24-ИСТ-2 | 117 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 74 | Халилов Н.М. | 24-ИСТ-2 |  | |  | |  | | 
-| 75 | Хватков И.В. | 24-ИСТ-2 | 120 | <img src="img/f.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 75 | Хватков И.В. | 24-ИСТ-2 | 120 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 76 | Хорощь А.А. | 24-ИСТ-2 | 127 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 77 | Цветков И.С. | 24-ИСТ-2 | 1 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 78 | Шаблов М.А. | 24-ИСТ-2 |  | |  | |  | | 
@@ -1859,7 +1859,7 @@
 | 116 | Чехонадских А.Д. | 24-ИСТ-3 | 71 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 117 | Шарыпова О.Ю. | 24-ИСТ-3 |  | |  | |  | | 
 | 118 | Астраханцева А.Д. | 24-ИСТ-4-1 | 122 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 119 | Афанасова А.А. | 24-ИСТ-4-1 | 68 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 119 | Афанасова А.А. | 24-ИСТ-4-1 | 68 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 120 | Бачин А.В. | 24-ИСТ-4-1 | 41 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 121 | Березкин Е.А. | 24-ИСТ-4-1 | 38 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 122 | Бурков С.А. | 24-ИСТ-4-1 | 64 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
